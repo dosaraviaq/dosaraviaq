@@ -5,6 +5,6 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-### ¡¡¡ Hola !!! :) 🐈✨
+### ¡¡¡ Hola Soy un estudiante de la carrera de ingeniera de sistemas !!! :) 🐈✨
 -  Sueño con ser full stack
 - 🐦 Estoy buscando ayuda con Flutter 🦎 y Seguridad informarica
